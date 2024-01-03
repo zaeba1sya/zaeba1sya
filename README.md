@@ -16,10 +16,9 @@
 ```
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Java 
-- ⚙️ React, Spring boot, Vue 
-- 👁️ SASS, PostCSS, Tailwind
-- 💽 PostgreSQL, MongoDB, Redis
+- 👨‍💻 TypeScript, Golang, Java 
+- ⚙️ Spring boot, Echo, Express
+- 💽 SQL, NoSQL, Message Brokers
 + a lot more :D
 
 ## Contact
