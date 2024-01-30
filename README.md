@@ -2,7 +2,7 @@
 
 ## Hey! 👋
 
-####  I'm Daniil Savochkin, Software Developer focusing on Golang and Java. <img src="https://giphy.com/gifs/king-seor-rat-1rPpzEMv4t52OeC60R" width="50">
+####  I'm Daniil Savochkin, Software Developer focusing on Golang and Java.
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-savochkin-614067258/)](https://www.linkedin.com/in/daniil-savochkin-614067258/)
