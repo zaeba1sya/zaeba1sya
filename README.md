@@ -1,26 +1,31 @@
-[![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ## Hey! 👋
 
-####  I'm Daniil, a 21 years old developer 
+####  I'm Daniil Savochkin, Software Developer focusing on Golang and Java. <img src="https://giphy.com/gifs/king-seor-rat-1rPpzEMv4t52OeC60R" width="50">
+<br />
 
-```java
-    package org.zaeba1sya;
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-savochkin-614067258/)](https://www.linkedin.com/in/daniil-savochkin-614067258/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/zaeba1sya)](https://t.me/zaeba1sya)
+<br />
 
-    public class Main {
-        public static void main(String[] args) {
-            System.out.println("I Love Coding!");
-        }
-    }
-```
+- 🔭 I’m currently working in [MKNL Technology](https://mknltech.com/)
+- 🌱 I’m currently concentrated on Go and microservices
 
-## Skills
-- 👨‍💻 TypeScript, Golang, Java 
-- ⚙️ Spring boot, Echo, Express
-- 💽 SQL, NoSQL, Message Brokers
-+ a lot more :D
-
-## Contact
-- [Telegram](https://t.me/zaeba1sya)
-- [LinkedIn](https://www.linkedin.com/in/daniil-savochkin-614067258/)
+<h3>🚀 Tools I Use</h3>
+<p align="left">
+<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="25" height="25" />
+</p>
