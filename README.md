@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/zaeba1sya)](https://t.me/zaeba1sya)
 <br />
 
-- 🔭 I’m currently working in [MKNL Technology](https://mknltech.com/)
+- 🔭 I’m currently working in GCE NT
 - 🌱 I’m currently concentrated on Go and microservices
 
 <h3>🚀 Tools I Use</h3>
