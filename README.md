@@ -2,15 +2,12 @@
 
 ## Hey! 👋
 
-####  I'm Daniil Savochkin, Software Developer focusing on Golang and Java.
+####  I'm Daniil Savochkin, Software Developer focusing on Golang.
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-savochkin-614067258/)](https://www.linkedin.com/in/daniil-savochkin-614067258/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/zaeba1sya)](https://t.me/zaeba1sya)
 <br />
-
-- 🔭 I’m currently working in GCE NT
-- 🌱 I’m currently concentrated on Go and microservices
 
 <h3>🚀 Tools I Use</h3>
 <p align="left">
