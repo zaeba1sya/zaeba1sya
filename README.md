@@ -2,7 +2,7 @@
 
 ## Hey! 👋
 
-####  I'm Daniil Savochkin, Software Developer focusing on Golang.
+####  I'm Daniel S, Software Developer focusing on Golang.
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-savochkin-614067258/)](https://www.linkedin.com/in/daniil-savochkin-614067258/)
